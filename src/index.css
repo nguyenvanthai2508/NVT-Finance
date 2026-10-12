@@ -1,0 +1,19 @@
+:root {
+  font-family: Inter, Arial, sans-serif;
+  color: #eaf0fa;
+  background-color: #080f1e;
+  font-synthesis: none;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+h1, h2, h3 {
+  color: #eaf0fa;
+}
+
+button, input {
+  font-family: inherit;
+}
